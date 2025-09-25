@@ -45,9 +45,15 @@ To conduct a comprehensive analysis of Netflix youtube channel, using Power bi t
 
 *  Chart Type: Stacked column chart.
 
-### 7. Like count distribution:
+### 7. Like count by duration:
 
-* Analyse like count by duration and title length.
+* Analyse like count by duration in minutes.
 
-* Chart Type: Scattered chart and Line chart.
+* Chart Type: Scattered chart.
+
+ ### 8. Like count by title length:
+
+* Analyse like count by title length.
+
+*  Chart Type: Line chart.
 
